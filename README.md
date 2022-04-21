@@ -1,4 +1,5 @@
 - [Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB](https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/)
+- [NoSQL Tutorial: What is, Types of NoSQL Databases & Example](https://www.guru99.com/nosql-tutorial.html)
 - [SQL vs NoSQL: when to use?](https://www.imaginarycloud.com/blog/sql-vs-nosql/)
 - [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
 - [When to Use NoSQL Databases | MongoDB](https://www.mongodb.com/nosql-explained/when-to-use-nosql)
