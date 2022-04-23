@@ -12,3 +12,4 @@
 - [mongodb - When should I use a NoSQL database instead of a relational database? Is it okay to use both on the same site? - Stack Overflow](https://stackoverflow.com/questions/3713313/when-should-i-use-a-nosql-database-instead-of-a-relational-database-is-it-okay)
 - [scalability - Why NoSQL is better at "scaling out" than RDBMS? - Stack Overflow](https://stackoverflow.com/questions/8729779/why-nosql-is-better-at-scaling-out-than-rdbms)
 - [What are some real world examples of when to use NoSQL vs. SQL databases? - Quora](https://www.quora.com/What-are-some-real-world-examples-of-when-to-use-NoSQL-vs-SQL-databases)
+- [Relational vs. NoSQL data | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data)
