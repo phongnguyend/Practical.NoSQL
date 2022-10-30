@@ -5,6 +5,7 @@
 - [When to Use NoSQL Databases | MongoDB](https://www.mongodb.com/nosql-explained/when-to-use-nosql)
 - [NoSQL vs SQL- 4 Reasons Why NoSQL is better for Big Data applications](https://www.projectpro.io/article/nosql-vs-sql-4-reasons-why-nosql-is-better-for-big-data-applications/86)
 - [NoSQL Databases: Why You Don’t Need Them](https://www.singlestore.com/blog/why-nosql-databases-wrong-tool-for-modern-application/)
+- [SQL is (almost) always superior to NoSQL - DEV Community 👩‍💻👨‍💻](https://dev.to/polterguy/sql-is-almost-always-superior-to-nosql-361g)
 - [What the heck are you actually using NoSQL for? - High Scalability](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)
 - [10 use cases where NoSQL will outperform SQL | Network World](https://www.networkworld.com/article/2999856/10-use-cases-where-nosql-will-outperform-sql.html)
 - [Why NoSQL Database | Couchbase](https://www.couchbase.com/resources/why-nosql)
