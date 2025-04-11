@@ -15,3 +15,4 @@
 - [scalability - Why NoSQL is better at "scaling out" than RDBMS? - Stack Overflow](https://stackoverflow.com/questions/8729779/why-nosql-is-better-at-scaling-out-than-rdbms)
 - [What are some real world examples of when to use NoSQL vs. SQL databases? - Quora](https://www.quora.com/What-are-some-real-world-examples-of-when-to-use-NoSQL-vs-SQL-databases)
 - [Relational vs. NoSQL data | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data)
+- [SQL Server vs Azure Cosmos DB - Hasan Savran - NDC Porto 2024 - YouTube](https://www.youtube.com/watch?v=28GqHEtApeU)
