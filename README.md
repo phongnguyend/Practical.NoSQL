@@ -16,3 +16,6 @@
 - [What are some real world examples of when to use NoSQL vs. SQL databases? - Quora](https://www.quora.com/What-are-some-real-world-examples-of-when-to-use-NoSQL-vs-SQL-databases)
 - [Relational vs. NoSQL data | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data)
 - [SQL Server vs Azure Cosmos DB - Hasan Savran - NDC Porto 2024 - YouTube](https://www.youtube.com/watch?v=28GqHEtApeU)
+
+### Azure Cosmos DB
+- [Azure Cosmos DB Conf 2026 - YouTube](https://www.youtube.com/playlist?list=PLmamF3YkHLoIcHHwveFfx2iuXPcrUPVQ5)
