@@ -19,3 +19,4 @@
 
 ### Azure Cosmos DB
 - [Azure Cosmos DB Conf 2026 - YouTube](https://www.youtube.com/playlist?list=PLmamF3YkHLoIcHHwveFfx2iuXPcrUPVQ5)
+- [Azure Cosmos DB : Becoming a Search-Native Database - Azure Cosmos DB Blog](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-becoming-a-search-native-database/)
